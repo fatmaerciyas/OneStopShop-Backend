@@ -1,0 +1,15 @@
+C:\Users\fatma\source\repos\OneStopShop\DTOLayer\bin\Debug\net7.0\DTOLayer.deps.json
+C:\Users\fatma\source\repos\OneStopShop\DTOLayer\bin\Debug\net7.0\DTOLayer.dll
+C:\Users\fatma\source\repos\OneStopShop\DTOLayer\bin\Debug\net7.0\DTOLayer.pdb
+C:\Users\fatma\source\repos\OneStopShop\DTOLayer\obj\Debug\net7.0\DTOLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatma\source\repos\OneStopShop\DTOLayer\obj\Debug\net7.0\DTOLayer.AssemblyInfoInputs.cache
+C:\Users\fatma\source\repos\OneStopShop\DTOLayer\obj\Debug\net7.0\DTOLayer.AssemblyInfo.cs
+C:\Users\fatma\source\repos\OneStopShop\DTOLayer\obj\Debug\net7.0\DTOLayer.csproj.CoreCompileInputs.cache
+C:\Users\fatma\source\repos\OneStopShop\DTOLayer\obj\Debug\net7.0\DTOLayer.dll
+C:\Users\fatma\source\repos\OneStopShop\DTOLayer\obj\Debug\net7.0\refint\DTOLayer.dll
+C:\Users\fatma\source\repos\OneStopShop\DTOLayer\obj\Debug\net7.0\DTOLayer.pdb
+C:\Users\fatma\source\repos\OneStopShop\DTOLayer\obj\Debug\net7.0\ref\DTOLayer.dll
+C:\Users\fatma\source\repos\OneStopShop\DTOLayer\obj\Debug\net7.0\DTOLayer.csproj.AssemblyReference.cache
+C:\Users\fatma\source\repos\OneStopShop\DTOLayer\bin\Debug\net7.0\EntityLayer.dll
+C:\Users\fatma\source\repos\OneStopShop\DTOLayer\bin\Debug\net7.0\EntityLayer.pdb
+C:\Users\fatma\source\repos\OneStopShop\DTOLayer\obj\Debug\net7.0\DTOLayer.csproj.CopyComplete
