@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nZOhfyJrNpl1JuNVkayAOkrb9uJthD1HzTtRgwgIpmCRzkDrA+uUlX4fiIx0g/SQNFs7S27ubuq3LWAoYxNvqg==",
+  "dgSpecHash": "mG/W7vdxIfctcb+4gQf53ajFYv1a+8Jq88lE71GPJYRE9nfyArtCHf0CZFmNlQo+zTvn4UyhehZWTz3J0b6rXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fatma\\source\\repos\\OneStopShop\\EntityLayer\\EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\fatma\\source\\repos\\OneStopShop-Backend\\OneStopShop\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fatma\\.nuget\\packages\\microsoft.aspnet.cors\\5.3.0\\microsoft.aspnet.cors.5.3.0.nupkg.sha512",
     "C:\\Users\\fatma\\.nuget\\packages\\microsoft.aspnet.webapi.client\\6.0.0\\microsoft.aspnet.webapi.client.6.0.0.nupkg.sha512",

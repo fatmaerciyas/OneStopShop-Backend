@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+V4X/njRcOh5wewpRFJtotWHfT5R4HTUsOGBxdVnXArxaamJm0lXgfAvzLIGElqabhpEA1wXs0Uz8q3u/FUShg==",
+  "dgSpecHash": "wpcPvHE33a6i4oeQPurDDM4n7YSDm/VPouGT3VtjSRNL2WSj8oy3a9ItrWsDb037oKJbvNACPViIj5MFu5DgAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fatma\\source\\repos\\OneStopShop\\OneStopShop\\OneStopShop.csproj",
+  "projectFilePath": "C:\\Users\\fatma\\source\\repos\\OneStopShop-Backend\\OneStopShop\\OneStopShop\\OneStopShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fatma\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\fatma\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

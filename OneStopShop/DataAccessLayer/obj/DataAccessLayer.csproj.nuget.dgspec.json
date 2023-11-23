@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fatma\\source\\repos\\OneStopShop\\DataAccessLayer\\DataAccessLayer.csproj": {}
+    "C:\\Users\\fatma\\source\\repos\\OneStopShop-Backend\\OneStopShop\\DataAccessLayer\\DataAccessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fatma\\source\\repos\\OneStopShop\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\fatma\\source\\repos\\OneStopShop-Backend\\OneStopShop\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatma\\source\\repos\\OneStopShop\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\fatma\\source\\repos\\OneStopShop-Backend\\OneStopShop\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\fatma\\source\\repos\\OneStopShop\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\fatma\\source\\repos\\OneStopShop-Backend\\OneStopShop\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\fatma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatma\\source\\repos\\OneStopShop\\DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\fatma\\source\\repos\\OneStopShop-Backend\\OneStopShop\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fatma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\fatma\\source\\repos\\OneStopShop\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\fatma\\source\\repos\\OneStopShop\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\fatma\\source\\repos\\OneStopShop-Backend\\OneStopShop\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\fatma\\source\\repos\\OneStopShop-Backend\\OneStopShop\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -101,14 +101,14 @@
         }
       }
     },
-    "C:\\Users\\fatma\\source\\repos\\OneStopShop\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\fatma\\source\\repos\\OneStopShop-Backend\\OneStopShop\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatma\\source\\repos\\OneStopShop\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\fatma\\source\\repos\\OneStopShop-Backend\\OneStopShop\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\fatma\\source\\repos\\OneStopShop\\EntityLayer\\EntityLayer.csproj",
+        "projectPath": "C:\\Users\\fatma\\source\\repos\\OneStopShop-Backend\\OneStopShop\\EntityLayer\\EntityLayer.csproj",
         "packagesPath": "C:\\Users\\fatma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatma\\source\\repos\\OneStopShop\\EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\fatma\\source\\repos\\OneStopShop-Backend\\OneStopShop\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fatma\\AppData\\Roaming\\NuGet\\NuGet.Config",

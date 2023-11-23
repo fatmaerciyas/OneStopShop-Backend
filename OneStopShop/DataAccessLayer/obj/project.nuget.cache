@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5KtjtP3CsgEfP/PDCV9G68xcZeSepuimjKl1ULOd7n3HCszwgbCJ4yoRM130eODy/5KPL6Eh0JphHfB7Q14dSw==",
+  "dgSpecHash": "mKNiy4iOwxoPaOsmb9/y7EqWY5LN3+xcSTwmWEh5Wyv1KlyHlApKtrOIrgRH1Mo8wlfVc1tQMHz6ACZkccCshw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fatma\\source\\repos\\OneStopShop\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\fatma\\source\\repos\\OneStopShop-Backend\\OneStopShop\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fatma\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\fatma\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
